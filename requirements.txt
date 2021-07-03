@@ -1,4 +1,4 @@
-Django==2.2.24
+Django==3.1.13
 djangorestframework==3.11.2
 PyJWT==1.5.2
 pytz==2017.2
